@@ -19,7 +19,8 @@ The first line of the input contains an integer t (1≤t≤104) — the number o
 The description of each test consists of one line containing one integer rating (−5000≤rating≤5000).
 
 Output
-For each test case, output a single line containing the correct division in the format "Division X", where X is an integer between 1 and 4 representing the division for the corresponding rating.
+For each test case, output a single line containing the correct division in the format "Division X", where X is an integer between 1 and 4 representing the 
+division for the corresponding rating.
 *******************************************************************************/
 #include <iostream>
 using namespace std;
